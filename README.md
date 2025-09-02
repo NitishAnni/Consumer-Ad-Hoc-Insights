@@ -1,4 +1,10 @@
 # Consumer-Ad-Hoc-Insights
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)  
+
+---
 ## 🚀 Project Overview
 This project is an analysis of consumer goods data for **AtliQ Hardware**, a leading Indian computer hardware manufacturer. The primary goal is to provide data-driven insights to the company's leadership by answering 10 ad-hoc business requests. By leveraging SQL for data querying and analysis, this project helps management identify key business trends, evaluate performance, and make informed strategic decisions.
 
